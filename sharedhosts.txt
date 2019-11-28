@@ -49,7 +49,7 @@
 10.0.1.163	hs200-front-porch
 10.0.1.164	hs200-front-yard
 10.0.1.165	hs100-myq
-10.0.1.166	hs100-gazeboa
+10.0.1.166	hs100-gazebo
 10.0.1.167	myq-chamberlain
 10.0.1.168	mom-dad-apple-tv
 10.0.1.169	tank-utility
