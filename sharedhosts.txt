@@ -14,13 +14,15 @@
 10.0.1.14	foyer-en1	
 
 10.0.1.95	debian
+10.0.1.96	ubuntu
+10.0.1.97	hassio
 10.0.1.98       old-mac-mini-en0
 10.0.1.99       old-mac-mini-en1
 10.0.1.100	raspberrypi
 10.0.1.101	ginos-mac-mini-en0
 10.0.1.102	ginos-mac-mini-en1
 10.0.1.103	ginos-mbp
-10.0.1.105	virtual-machine
+10.0.1.105	ginos-mac-mini-tb2
 10.0.1.106	chucks-imac-en0
 10.0.1.107	chucks-imac-en1
 10.0.1.108	chucks-air
@@ -37,7 +39,6 @@
 10.0.1.150	brother-hl2270dw
 10.0.1.151	philips-hue
 10.0.1.152	nest-thermostat
-10.0.1.153	placeholder-02
 10.0.1.154	skybell
 10.0.1.155	living-room-apple-tv
 10.0.1.156	may-gino-apple-tv
