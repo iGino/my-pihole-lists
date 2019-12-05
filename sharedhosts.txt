@@ -1,23 +1,14 @@
 10.0.1.1	scenic-elk-en0
-10.0.1.2	scenic-elk-en1
-10.0.1.3	scenic-elk-en2
-10.0.1.4	living-room-en0
-10.0.1.5	living-room-en1
-10.0.1.6	living-room-en2
-10.0.1.7	garage-en0
-10.0.1.8	garage-en1
-10.0.1.9	garage-en2
-10.0.1.10	shed-en0
-10.0.1.11	shed-en1
-10.0.1.12	shed-en2
-10.0.1.13	foyer-en0
-10.0.1.14	foyer-en1	
-
+10.0.1.2	living-room-en0
+10.0.1.3	garage-en0
+10.0.1.4	shed-en0
+10.0.1.5	foyer-en0
+	
 10.0.1.95	debian
 10.0.1.96	ubuntu
 10.0.1.97	hassio
-10.0.1.98       old-mac-mini-en0
-10.0.1.99       old-mac-mini-en1
+10.0.1.98	old-mac-mini-en0
+10.0.1.99	old-mac-mini-en1
 10.0.1.100	raspberrypi
 10.0.1.101	ginos-mac-mini-en0
 10.0.1.102	ginos-mac-mini-en1
@@ -35,7 +26,7 @@
 10.0.1.115	ethans-air
 10.0.1.116	scenic-elk-server-en0
 10.0.1.117	scenic-elk-server-en1
-
+	
 10.0.1.150	brother-hl2270dw
 10.0.1.151	philips-hue
 10.0.1.152	nest-thermostat
@@ -67,8 +58,8 @@
 10.0.1.180	marvins-3ds
 10.0.1.181	marvins-nintendo-switch
 10.0.1.182	rachio
-10.0.1.183      indoor-camera-01
-10.0.1.184      indoor-camera-02
+10.0.1.183	indoor-camera-01
+10.0.1.184	indoor-camera-02
 10.0.1.185	indoor-camera-03
 10.0.1.186	indoor-camera-04
 	
@@ -99,3 +90,6 @@
 	
 10.0.1.253	dummy-device-01
 10.0.1.254	dummy-device-02
+	
+10.8.0.2	vpn-client-01
+10.8.0.3	vpn-client-02
