@@ -70,6 +70,7 @@
 10.0.1.201	dinas-iphone-7
 10.0.1.202	ethans-iphone-5
 10.0.1.203	ginos-iphone-6
+10.0.1.204	mays-iphone-11-pro-max
 10.0.1.205	marvins-iphone-6
 10.0.1.206	marvins-iphone-8
 10.0.1.207	alexs-iphone-6
