@@ -77,6 +77,7 @@
 10.0.1.208	alexs-iphone-6s
 10.0.1.209	rachels-iphone-8-plus
 10.0.1.210	eds-iphone-8-plus
+10.0.1.211	ginos-iphone-xr
 10.0.1.212	ethans-ipad-2
 10.0.1.213	masons-ipad-mini
 10.0.1.214	ginos-watch
