@@ -16,7 +16,7 @@
 10.0.1.102	ginos-mac-mini-en1
 10.0.1.103	ginos-mbp
 10.0.1.105	ginos-mac-mini-tb2
-10.0.1.106	chucks-imac-en0
+10.0.1.106	chucks-imac-5k
 10.0.1.107	chucks-imac-en1
 10.0.1.108	chucks-air
 10.0.1.109	dinas-air
