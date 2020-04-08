@@ -59,3 +59,4 @@ github.com
 wgu.edu
 clients6.google.com
 ping.ublock.org
+r20.rs6.net
