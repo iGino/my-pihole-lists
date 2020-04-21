@@ -86,7 +86,7 @@
 10.0.1.217	dinas-ipad-3
 10.0.1.218	dinas-watch
 10.0.1.219	ginos-iphone-x
-10.0.1.220	mays-iphone-x
+10.0.1.220	chucks-iphone-x
 10.0.1.221	masons-ipod-touch
 10.0.1.222	tims-note-8
 10.0.1.223	eds-work-iphone
