@@ -3,8 +3,8 @@
 10.0.1.3	garage-en0
 10.0.1.4	shed-en1
 10.0.1.5	shed-en2
-10.0.1.6	foyer-en0
-10.0.1.7	foyer-en1
+10.0.1.6	barn-en0
+10.0.1.7	barn-en1
 	
 10.0.1.95	debian
 10.0.1.96	ubuntu
